@@ -680,6 +680,3 @@ B.Tech — Computer Science Engineering
 # ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-```
-```
