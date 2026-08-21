@@ -209,7 +209,7 @@ An interactive **Customer Churn Analysis Dashboard** was developed using Microso
 
 The dashboard provides an overview of customer churn and helps identify customer segments with higher churn risk.
 
-![Dashboard](powerbi/Dashboard.png)
+![Dashboard](powerbi/dashboard.png)
 ---
 
 # 📌 Dashboard KPIs
