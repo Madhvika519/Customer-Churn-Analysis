@@ -419,22 +419,6 @@ Instead of applying the same retention strategy to every customer, businesses ca
 
 ---
 
-# 📷 Dashboard Preview
-
-Add the Power BI dashboard screenshot to the `PowerBI` folder and name it:
-
-```text
-Dashboard.png
-```
-
-Then use the following in the README:
-
-```markdown
-![Customer Churn Dashboard](PowerBI/Dashboard.png)
-```
-
----
-
 # 🚀 How to Run the Project
 
 ## Step 1 — Clone the Repository
